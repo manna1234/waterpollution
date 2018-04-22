@@ -1,0 +1,2297 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        20.88496,
+        110.001532,
+        25.322,
+        116.9996402
+    ],
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "1",
+                "NAME": "洪奇沥",
+                "CITY": "广州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.620129,
+                    113.581591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "2",
+                "NAME": "蕉门",
+                "CITY": "广州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.63637,
+                    113.652321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "3",
+                "NAME": "鸦岗",
+                "CITY": "广州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2215793,
+                    113.1827421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "4",
+                "NAME": "墩头基",
+                "CITY": "广州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0486717,
+                    113.5050956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "5",
+                "NAME": "流溪河山庄",
+                "CITY": "广州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5192419,
+                    113.5543892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "6",
+                "NAME": "沙湾水厂",
+                "CITY": "广州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.89559983,
+                    113.3414749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "7",
+                "NAME": "官坦",
+                "CITY": "广州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.902086,
+                    113.47436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "8",
+                "NAME": "人和",
+                "CITY": "广州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3399092,
+                    113.2994731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "9",
+                "NAME": "大龙涌口",
+                "CITY": "广州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.916872,
+                    113.435174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "10",
+                "NAME": "增江口",
+                "CITY": "广州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.137592,
+                    113.7508361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "11",
+                "NAME": "东塱",
+                "CITY": "广州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0663,
+                    113.2588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "12",
+                "NAME": "长洲",
+                "CITY": "广州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.086825,
+                    113.4059306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "13",
+                "NAME": "大墩",
+                "CITY": "广州市,东莞市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1272361,
+                    113.6696664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "14",
+                "NAME": "莲花山",
+                "CITY": "广州市,东莞市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0144424,
+                    113.5157462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "15",
+                "NAME": "十里亭",
+                "CITY": "韶关市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8205525,
+                    113.54087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "16",
+                "NAME": "南水水库",
+                "CITY": "韶关市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7774516,
+                    113.2185354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "17",
+                "NAME": "长坝",
+                "CITY": "韶关市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8644092,
+                    113.6629591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "18",
+                "NAME": "孟洲坝电站",
+                "CITY": "韶关市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7355656,
+                    113.533446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "19",
+                "NAME": "孔江水库上游",
+                "CITY": "韶关市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.322,
+                    114.6852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "20",
+                "NAME": "河坪",
+                "CITY": "韶关市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.155306,
+                    114.434306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "21",
+                "NAME": "墨江出口",
+                "CITY": "韶关市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.981667,
+                    114.022222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "22",
+                "NAME": "丹霞山",
+                "CITY": "韶关市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0203521,
+                    113.711987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "23",
+                "NAME": "三溪桥",
+                "CITY": "韶关市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2818037,
+                    112.8705943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "24",
+                "NAME": "马头福水",
+                "CITY": "韶关市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.139354,
+                    114.373402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "25",
+                "NAME": "高桥",
+                "CITY": "韶关市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5103028,
+                    113.5778355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "26",
+                "NAME": "西湖村",
+                "CITY": "深圳市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.780398,
+                    114.4186855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "27",
+                "NAME": "深圳河口",
+                "CITY": "深圳市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.50653889,
+                    114.0360444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "28",
+                "NAME": "南沙湾断面",
+                "CITY": "珠海市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.23043896,
+                    113.488434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "29",
+                "NAME": "石角咀水闸",
+                "CITY": "珠海市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.20928,
+                    113.52757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "30",
+                "NAME": "鸡啼门大桥",
+                "CITY": "珠海市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.085111,
+                    113.264556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "31",
+                "NAME": "尖峰大桥",
+                "CITY": "珠海市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.187778,
+                    113.314444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "32",
+                "NAME": "珠海大桥",
+                "CITY": "珠海市,中山市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1864714,
+                    113.409171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "33",
+                "NAME": "升平",
+                "CITY": "汕头市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.35371944,
+                    116.65805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "34",
+                "NAME": "地都",
+                "CITY": "汕头市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.44064444,
+                    116.5267278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "35",
+                "NAME": "莲阳桥闸",
+                "CITY": "汕头市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.49130799,
+                    116.7713428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "36",
+                "NAME": "青洋山桥",
+                "CITY": "汕头市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.30455833,
+                    116.3153667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "37",
+                "NAME": "海门湾桥闸",
+                "CITY": "汕头市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.21873611,
+                    116.6154028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "38",
+                "NAME": "外砂",
+                "CITY": "汕头市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.44777066,
+                    116.754413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "39",
+                "NAME": "隆都",
+                "CITY": "汕头市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.55935278,
+                    116.7159194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "40",
+                "NAME": "北江水厂",
+                "CITY": "佛山市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3688619,
+                    112.9005377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "41",
+                "NAME": "羊额水厂",
+                "CITY": "佛山市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8925,
+                    113.186944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "42",
+                "NAME": "高明水厂",
+                "CITY": "佛山市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.921371,
+                    112.8728293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "43",
+                "NAME": "乌洲",
+                "CITY": "佛山市,广州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9002508,
+                    113.2588081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "44",
+                "NAME": "平洲",
+                "CITY": "佛山市,广州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.04208933,
+                    113.212297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "45",
+                "NAME": "古劳",
+                "CITY": "佛山市,江门市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.83777778,
+                    112.9472222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "46",
+                "NAME": "下东",
+                "CITY": "佛山市,江门市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8109327,
+                    113.0418708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "47",
+                "NAME": "篁边",
+                "CITY": "江门市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.63671086,
+                    113.0910635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "48",
+                "NAME": "新沙",
+                "CITY": "江门市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.48541015,
+                    113.1747497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "49",
+                "NAME": "恩城水厂",
+                "CITY": "江门市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.20113016,
+                    112.2921583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "50",
+                "NAME": "牛湾",
+                "CITY": "江门市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.458333,
+                    112.858333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "51",
+                "NAME": "苍山渡口",
+                "CITY": "江门市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.22478815,
+                    113.0833297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "52",
+                "NAME": "赤坎水厂（塘口取水口）",
+                "CITY": "湛江市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3002072,
+                    110.306488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "53",
+                "NAME": "黄坡",
+                "CITY": "湛江市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.34654209,
+                    110.6226437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "54",
+                "NAME": "大山江",
+                "CITY": "湛江市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.446281,
+                    110.783089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "55",
+                "NAME": "排里",
+                "CITY": "湛江市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5037131,
+                    110.0654262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "56",
+                "NAME": "南渡河桥",
+                "CITY": "湛江市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.88496,
+                    110.04508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "57",
+                "NAME": "营仔",
+                "CITY": "湛江市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.483112,
+                    110.001532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "58",
+                "NAME": "山角",
+                "CITY": "湛江市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.91699958,
+                    110.2920488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "59",
+                "NAME": "渠首",
+                "CITY": "湛江市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.707907,
+                    110.311208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "60",
+                "NAME": "塘口",
+                "CITY": "茂名市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5121455,
+                    110.8403842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "61",
+                "NAME": "石碧",
+                "CITY": "茂名市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.55558313,
+                    110.8176485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "62",
+                "NAME": "江口门",
+                "CITY": "茂名市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5356,
+                    110.6637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "63",
+                "NAME": "良德水库",
+                "CITY": "茂名市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.14702,
+                    110.98208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "64",
+                "NAME": "石骨水库",
+                "CITY": "茂名市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.03482,
+                    111.01726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "65",
+                "NAME": "森高排污口",
+                "CITY": "茂名市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5195,
+                    111.017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "66",
+                "NAME": "电力局排海口",
+                "CITY": "茂名市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5057,
+                    110.9955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "67",
+                "NAME": "寨头河出海口",
+                "CITY": "茂名市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5381,
+                    111.0329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "68",
+                "NAME": "飞马桥",
+                "CITY": "茂名市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5622188,
+                    110.8760418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "69",
+                "NAME": "米急渡",
+                "CITY": "茂名市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9163294,
+                    110.8104786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "70",
+                "NAME": "铜鼓电站",
+                "CITY": "茂名市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4764749,
+                    110.9514152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "71",
+                "NAME": "五马岗",
+                "CITY": "肇庆市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2925086,
+                    112.7670908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "72",
+                "NAME": "白沙街",
+                "CITY": "肇庆市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8115586,
+                    111.8042353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "73",
+                "NAME": "梁村",
+                "CITY": "肇庆市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.17506247,
+                    112.8104952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "74",
+                "NAME": "永安",
+                "CITY": "肇庆市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1752162,
+                    112.6664696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "75",
+                "NAME": "黄岗",
+                "CITY": "肇庆市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0604229,
+                    112.5123157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "76",
+                "NAME": "封开城上",
+                "CITY": "肇庆市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.461788,
+                    111.462128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "77",
+                "NAME": "都骑",
+                "CITY": "肇庆市,云浮市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.07452251,
+                    112.1558481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "78",
+                "NAME": "古封",
+                "CITY": "肇庆市,云浮市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.27357058,
+                    111.5634993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "79",
+                "NAME": "六都水厂上游",
+                "CITY": "肇庆市,云浮市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.097485,
+                    111.978454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "80",
+                "NAME": "九龙潭",
+                "CITY": "惠州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.48608889,
+                    113.9188889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "81",
+                "NAME": "博罗城下(新角)",
+                "CITY": "惠州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.150007,
+                    114.249155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "82",
+                "NAME": "惠州汝湖",
+                "CITY": "惠州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1808,
+                    114.4828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "83",
+                "NAME": "马安大桥下",
+                "CITY": "惠州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.038233,
+                    114.4997806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "84",
+                "NAME": "紫溪",
+                "CITY": "惠州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0143686,
+                    114.4759399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "85",
+                "NAME": "沙河河口(里波水）",
+                "CITY": "惠州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.118917,
+                    113.889879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "86",
+                "NAME": "公庄河口（泰美）",
+                "CITY": "惠州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3414297,
+                    114.4840351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "87",
+                "NAME": "上垟",
+                "CITY": "惠州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.71909722,
+                    114.4167583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "88",
+                "NAME": "虎爪断桥",
+                "CITY": "惠州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.73621667,
+                    114.5305833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "89",
+                "NAME": "南边灶桥",
+                "CITY": "惠州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.74398056,
+                    114.555667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "90",
+                "NAME": "三棵树",
+                "CITY": "惠州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.74489722,
+                    114.582472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "91",
+                "NAME": "滨海十路与石化大道中交汇处",
+                "CITY": "惠州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.75583889,
+                    114.611528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "92",
+                "NAME": "横头街霞涌医院门口前",
+                "CITY": "惠州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.77691111,
+                    114.649167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "93",
+                "NAME": "吉隆商贸城前",
+                "CITY": "惠州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.796,
+                    114.9267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "94",
+                "NAME": "甘园",
+                "CITY": "惠州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0997,
+                    115.0758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "95",
+                "NAME": "西阳电站",
+                "CITY": "梅州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2817717,
+                    116.1803066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "96",
+                "NAME": "青溪",
+                "CITY": "梅州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6456072,
+                    116.5964722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "97",
+                "NAME": "大麻",
+                "CITY": "梅州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3421804,
+                    116.5313498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "98",
+                "NAME": "莱口水电站",
+                "CITY": "梅州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.088333,
+                    115.423611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "99",
+                "NAME": "赤凤",
+                "CITY": "梅州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.830214,
+                    116.52495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "100",
+                "NAME": "陆丰半湾水闸",
+                "CITY": "汕尾市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9584996,
+                    115.6168107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "101",
+                "NAME": "海丰西闸",
+                "CITY": "汕尾市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9156,
+                    115.3292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "102",
+                "NAME": "东溪水闸",
+                "CITY": "汕尾市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8715,
+                    115.5267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "103",
+                "NAME": "乌坎",
+                "CITY": "汕尾市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9013,
+                    115.6922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "104",
+                "NAME": "小漠桥",
+                "CITY": "汕尾市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7978,
+                    115.0493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "105",
+                "NAME": "兴宁电站",
+                "CITY": "河源市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.645147,
+                    115.559014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "106",
+                "NAME": "庙咀里",
+                "CITY": "河源市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.701333,
+                    115.178778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "107",
+                "NAME": "龙川城铁路桥",
+                "CITY": "河源市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.124539,
+                    115.251835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "108",
+                "NAME": "河源临江",
+                "CITY": "河源市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.649904,
+                    114.67372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "109",
+                "NAME": "新丰江水库",
+                "CITY": "河源市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.733067,
+                    114.636169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "110",
+                "NAME": "榄溪渡口",
+                "CITY": "河源市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.410496,
+                    114.636016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "111",
+                "NAME": "俐江出口",
+                "CITY": "河源市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.259084,
+                    115.173292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "112",
+                "NAME": "枫树坝水库",
+                "CITY": "河源市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.418225,
+                    115.373693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "113",
+                "NAME": "江口",
+                "CITY": "河源市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.414261,
+                    114.626315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "114",
+                "NAME": "大泉",
+                "CITY": "阳江市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7647222,
+                    111.6660833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "115",
+                "NAME": "那格",
+                "CITY": "阳江市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8158889,
+                    111.9695278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "116",
+                "NAME": "埠场",
+                "CITY": "阳江市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7928889,
+                    111.9399167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "117",
+                "NAME": "尖山",
+                "CITY": "阳江市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8352778,
+                    112.0213889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "118",
+                "NAME": "中朗",
+                "CITY": "阳江市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1417269,
+                    111.7083659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "119",
+                "NAME": "江城",
+                "CITY": "阳江市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.830505,
+                    111.950596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "120",
+                "NAME": "寿长",
+                "CITY": "阳江市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8311111,
+                    112.2018889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "121",
+                "NAME": "滃江大坝",
+                "CITY": "清远市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.129889,
+                    113.42575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "122",
+                "NAME": "连江西牛",
+                "CITY": "清远市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1870436,
+                    113.1088117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "123",
+                "NAME": "七星岗",
+                "CITY": "清远市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6831942,
+                    113.0691071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "124",
+                "NAME": "北江石尾",
+                "CITY": "清远市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.14408,
+                    113.39675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "125",
+                "NAME": "飞来峡",
+                "CITY": "清远市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8388863,
+                    113.2584167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "126",
+                "NAME": "石角",
+                "CITY": "清远市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.49310021,
+                    112.9032342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "127",
+                "NAME": "飞水桥",
+                "CITY": "清远市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7047143,
+                    112.9989643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "128",
+                "NAME": "潖江口",
+                "CITY": "清远市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.733733,
+                    113.2161217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "129",
+                "NAME": "企坪",
+                "CITY": "东莞市,深圳市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.75662222,
+                    114.0590389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "130",
+                "NAME": "樟村（家乐福）",
+                "CITY": "东莞市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.058789,
+                    113.752464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "131",
+                "NAME": "沙田泗盛",
+                "CITY": "东莞市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.921578,
+                    113.599314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "132",
+                "NAME": "第六水厂",
+                "CITY": "东莞市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.09771762,
+                    113.825348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "133",
+                "NAME": "旗岭",
+                "CITY": "东莞市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.948744,
+                    114.0620576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "134",
+                "NAME": "共和村",
+                "CITY": "东莞市,深圳市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.751828,
+                    113.778978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "135",
+                "NAME": "石龙北河",
+                "CITY": "东莞市,惠州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.11808778,
+                    113.8412378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "136",
+                "NAME": "东岸",
+                "CITY": "东莞市,惠州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.05055531,
+                    114.1197659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "137",
+                "NAME": "中山港码头",
+                "CITY": "中山市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5731132,
+                    113.4835901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "138",
+                "NAME": "全禄水厂",
+                "CITY": "中山市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4703989,
+                    113.2456127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "139",
+                "NAME": "合水口",
+                "CITY": "中山市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.479,
+                    113.5129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "140",
+                "NAME": "泮沙桥",
+                "CITY": "中山市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.473024,
+                    113.5418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "141",
+                "NAME": "马大丰水厂",
+                "CITY": "中山市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5971917,
+                    113.4368545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "142",
+                "NAME": "翠亨宾馆",
+                "CITY": "中山市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.445531,
+                    113.525327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "143",
+                "NAME": "布洲",
+                "CITY": "中山市,珠海市,江门市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3632149,
+                    113.2852498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "144",
+                "NAME": "大衙",
+                "CITY": "潮州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.46212905,
+                    116.7051333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "145",
+                "NAME": "凤江桥",
+                "CITY": "潮州市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.66755815,
+                    116.9996402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "146",
+                "NAME": "东湖",
+                "CITY": "揭阳市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.52777778,
+                    116.3547222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "147",
+                "NAME": "隆溪大道桥",
+                "CITY": "揭阳市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9833824,
+                    116.1829229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "148",
+                "NAME": "深坑",
+                "CITY": "揭阳市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.60919895,
+                    116.5293845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "149",
+                "NAME": "引榕干渠",
+                "CITY": "揭阳市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.53529919,
+                    116.2139162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "150",
+                "NAME": "龙石",
+                "CITY": "揭阳市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.55027778,
+                    116.3847222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "151",
+                "NAME": "南江口",
+                "CITY": "云浮市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1240422,
+                    111.8224836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ID": "152",
+                "NAME": "下坪",
+                "CITY": "云浮市"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7526087,
+                    112.2471938
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4269"
+        }
+    }
+}

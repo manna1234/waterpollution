@@ -1,0 +1,5 @@
+1. leaflet-1.3.1.js
+
+
+
+csvjson --lat x --lon y --k slug --crs EPSG:4269 -i 4 data/test_geo.csv

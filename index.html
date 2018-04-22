@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <title>water pollution</title>
+    <link rel="stylesheet" type="text/css" href="css/leaflet.css">
+    <link rel="stylesheet" type="text/css" href="css/base.css">
+
+    <script type="text/javascript" src="js/leaflet.js"></script>
+    <script type="text/javascript" src='js/leaflet.ChineseTmsProviders.js'></script>
+    <!--<script type="text/javascript" src='js/mapbox.js'></script>-->
+    <!--<script type="text/javascript" src='js/leaflet-omnivore.min.js'></script>-->
+</head>
+<body>
+<div class="title">水污染防治审计一张图<span style="font-size: 12px;">&nbsp;广州</span> </div>
+
+    <div id = 'map'></div>
+
+
+    <script type="text/javascript">
+        //高德地图
+        var normalm = L.tileLayer.chinaProvider('GaoDe.Normal.Map', {
+            maxZoom: 18,
+            minZoom: 5
+        });
+        var imgm = L.tileLayer.chinaProvider('GaoDe.Satellite.Map', {
+            maxZoom: 18,
+            minZoom: 5
+        });
+        var imga = L.tileLayer.chinaProvider('GaoDe.Satellite.Annotion', {
+            maxZoom: 18,
+            minZoom: 5
+        });
+        //layerGroup用于将几个图层组合成一个。如果将其添加到地图中，任何添加或移除的图层将在地图上添加/删除。扩展层。
+        var normal = L.layerGroup([normalm]),
+            image = L.layerGroup([imgm, imga]);
+
+
+        var baseLayers = {
+                "高德地图": normal,
+                "高德影像": image,
+            }
+
+
+        var map = L.map("map", {
+            center: [23.113775,113.319855],  //中心点 ，海心沙
+            zoom: 15,
+            layers: [normal],
+            zoomControl: false
+        });
+
+        L.control.layers(baseLayers,{},{
+            position: 'topleft',
+            collapsed: true
+        }).addTo(map);
+        L.control.zoom({
+            zoomInTitle: '放大',
+            zoomOutTitle: '缩小'
+        }).addTo(map);
+    </script>
+
+    </body>
+    </html>
